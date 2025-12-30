@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['mask_weared_incorrect', 'with_mask', 'without_mask']
+
+roboflow:
+  workspace: hehehehehehe-hehe
+  project: face-mask-detection-4lglo-mjjym
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hehehehehehe-hehe/face-mask-detection-4lglo-mjjym/dataset/1
